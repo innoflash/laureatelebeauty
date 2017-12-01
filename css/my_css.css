@@ -1,0 +1,20 @@
+li .active {
+    background: #1d191a;
+}
+.sasa li{
+    margin-bottom: 10px;
+}
+#crap .fa {
+    background: #f03757;
+}
+.footerform input, .footerform textarea, .footerform select .footerform button {
+    margin-bottom: 5px;
+}
+.image {
+   /* width: 100%;*/
+    height: auto;
+}
+.sasa li b {
+    color: #f03757;
+    font-weight:  bolder;
+}
